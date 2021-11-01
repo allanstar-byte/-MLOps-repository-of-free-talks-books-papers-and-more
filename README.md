@@ -15,8 +15,15 @@ MLOps: People & Processes	Newsletters About MLOps, Machine Learning, Data Scienc
 
 
 MLOps Core
+
 Machine Learning Operations: You Design It, You Train It, You Run It!
+
 MLOps SIG Specification
+
 ML in Production
+
+
 Awesome production machine learning: State of MLOps Tools and Frameworks
+
 Udemy “Deployment of ML Models”
+
